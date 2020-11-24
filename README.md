@@ -1,5 +1,6 @@
 # QR-code-generator
 QR code generator using google charts api,tkinter,requests and PIL module in python
+
 Contributors:
 https://github.com/premakhil,
 https://github.com/Pranoypauljr
